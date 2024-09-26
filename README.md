@@ -1,5 +1,5 @@
 # data_analysis
-This dataset was downloaded from Kaggle for my initial efforts in data analysis. 
+The Sleep_health_and_lifestyle_dataset dataset was downloaded from Kaggle for my initial efforts in data analysis. 
 
 Goals and Questions:  
 My goal for this analysis was to practice what questions I was trying to answer and how I would obtain the results to answers those questions.
